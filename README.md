@@ -39,7 +39,7 @@ I bet all that stuff sounds great. Well good news / bad news. Everything listed 
 
 **Search**: Search doesn't work either and will be added when the new fetching and filtering system is complete.
 
-**FullScreen**: Lets just say full screen mode is experimental. It only works in Landscape mode and if you enter it in landscape, then switch to portrait you wont be able to leave. There also aren't controls for toggling through pull requests or between activity & changes.
+**FullScreen**: Lets just say full screen mode is experimental. It only works in Landscape mode and if you enter it in landscape, then switch to portrait you wont be able to leave. There also aren't controls for toggling through pull requests or between activity & changes. Also you'll notice that items aren't properly sized in full screen. So you might get a bunch of whitespace under comments.
 
 **Individual Commit View**: Its ugly. I'm sorry. I will do better next time.
 
